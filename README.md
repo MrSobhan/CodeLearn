@@ -1,4 +1,4 @@
-# Code Learning Academy
+# <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Nerd%20Face.pngCode" width="40" title="Code Learn"> Learning Academy
 
 Welcome to the official Code Learn repository, where coding becomes second nature. Our platform is designed to empower learners of all levels to master programming skills through interactive lessons and real-world projects.
 
